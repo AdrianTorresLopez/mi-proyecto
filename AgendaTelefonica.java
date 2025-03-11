@@ -29,7 +29,7 @@ public class AgendaTelefonica {
                     System.out.println("Saliendo...");
                     break;
                 default:
-                    System.out.println("Opción no valida.");
+                    System.out.println("Opcion no valida.");
             }
         } while (opcion != 4);
 
